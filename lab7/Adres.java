@@ -1,7 +1,5 @@
 package pl.imiajd.chacinski;
 
-import pl.edu.uwm.po.lab6.IntegerSet;
-
 public class Adres {
 
     private String ulica;
