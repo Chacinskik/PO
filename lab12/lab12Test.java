@@ -14,5 +14,10 @@ public class lab12Test {
         System.out.println(pracownicy);
         lab12.odwroc(pracownicy);
         System.out.println(pracownicy);
+        String ala="Ala ma kota. Jej kot lubi myszy.";
+        lab12.odwroc(ala);
+        lab12.cyfry(2015);
+        lab12.primes(10);
+        lab12.print(pracownicy);
     }
 }
